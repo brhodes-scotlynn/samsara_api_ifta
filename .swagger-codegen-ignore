@@ -1,0 +1,6 @@
+README.md
+.swagger-codegen-ignore
+git_push.sh
+.travis.yml
+.gitignore
+samsara/apis/__init__.py
